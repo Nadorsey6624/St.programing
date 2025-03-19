@@ -1,0 +1,1 @@
+| Solvent | bp | mp | | :------: | :--: | :--: | | benzene | 80 | 6 | | acetone | 56 | -95 | | toluene | 111 | -95 | | pentane | 36 | -130 | | ether | 35 | -116 | | ethanol | 78 | -114 | | methanol | 65 | -98 |
